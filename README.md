@@ -1,4 +1,4 @@
-# Advanced-Deep-Learning
+# Advanced-Deep-Learning ECG Heartbeat Classification
 This repository includes the project to be completed as part of the course Advanced Deep Learning at Ravensburg-Weingarten University of Applied Sciences.
 
 This project is based on the work in the paper ['ECG Heartbeat Classification: A Deep Transferable Representation'](https://arxiv.org/abs/1805.00794). The PTB Diagnostic ECG Database and the MIT-BIH Arrhythmia dataset are used to train and validate the model. The MIT-BIH dataset has 5 different classes and the PTB Diagnostic dataset has two classes as shown in the figures.
